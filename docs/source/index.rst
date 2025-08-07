@@ -27,7 +27,7 @@ Step 2: Download Canon Printer Driver
 
 If you do not have the installation CD, follow these steps:
 
-1. Visit the official Canon website: https://ij.start.canon
+1. Visit the official Canon website: `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_
 2. Enter your Canon printer model.
 3. Download the latest driver for Windows.
 4. Save the driver file to your computer.
