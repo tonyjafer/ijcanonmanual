@@ -126,4 +126,4 @@ Benefits of Canon Wireless Printer Setup
 Final Thoughts
 ==============
 
-Installing a Canon printer to your computer using wireless setup is simple and efficient. With just a few steps, you can enjoy wireless printing and all the benefits it offers. For continued support, always keep your printer firmware and drivers up to date by visiting the Canon support site.
+Installing a Canon printer to your computer using wireless setup is simple and efficient. With just a few steps, you can enjoy wireless printing and all the benefits it offers. For continued support, always keep your printer firmware and drivers up to date by visiting the Canon support site or website.
