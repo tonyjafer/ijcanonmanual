@@ -75,6 +75,7 @@ Step 6: Test Your Printer
 =========================
 
 Print a test page:
+-------------------------
 
 1. Go to **Devices > Printers & Scanners**.
 2. Select your printer > **Manage > Print a Test Page**.
